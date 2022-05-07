@@ -1,0 +1,17 @@
+ft_containers
+print_separator
+
+*.a
+*.o
+*.d
+*.out
+*.exe
+*.pdf
+*.dSYM
+.*
+
+ft_containers-unit-test/
+
+!.gitignore
+!en.subject.pdf
+!.DELETE_ME
